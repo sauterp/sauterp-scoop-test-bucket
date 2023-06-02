@@ -1,0 +1,13 @@
+{
+  "version": "1.68.0",
+  "homepage": "https://example.com",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/exoscale/cli/releases/download/v1.68.0/exoscale-cli_1.68.0_windows_amd64.zip"
+    }
+  },
+  "bin": [
+    "exo.exe"
+  ]
+}
